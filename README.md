@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile!  
 
-I’m **kapil srivastava**, a passionate **Data Analyst** with a background in **Civil Engineering** and expertise in **Data Science & Analytics**. I love uncovering insights from data, solving complex problems, and building data-driven solutions! 🚀  
+I'm Kapil Srivastava, a passionate Data Analyst with expertise in Data Science and Analytics. I thrive on uncovering insights from data, solving complex problems, and building data-driven solutions that drive impactful decisions! 🚀  
 
 📊 Currently expanding my knowledge in **Machine Learning & Data Engineering**  
 🔍 Looking for exciting opportunities in **Data Analytics & Science**  
