@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile!  
 
-<!--
-**Kapil-srivastava-okay/kapil-srivastava-okay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **kapil srivastava**, a passionate **Data Analyst** with a background in **Civil Engineering** and expertise in **Data Science & Analytics**. I love uncovering insights from data, solving complex problems, and building data-driven solutions! 🚀  
 
-Here are some ideas to get you started:
+📊 Currently expanding my knowledge in **Machine Learning & Data Engineering**  
+🔍 Looking for exciting opportunities in **Data Analytics & Science**  
+🌱 Always learning and improving my skills in **Python, SQL & Cloud Technologies**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+💻 **Programming & Data**  
+- 🐍 Python, SQL, R  
+- 📊 Excel, Tableau, Power BI  
+- 🔢 Data Visualization & Analysis  
+
+📈 **Machine Learning & Analytics**  
+- 🤖 Predictive Modeling, Statistics  
+- 📡 Data Engineering & ETL  
+- 📊 Dashboard Development  
+
+⚡ **Tools & Frameworks**  
+- 🏗 Pandas, NumPy, Scikit-learn  
+- 🏢 Google BigQuery, AWS, Apache Spark  
+- 📂 Git, Jupyter Notebooks  
+
+---
+
+## 📫 Connect with Me! 🌍  
+💼 **LinkedIn** – https://www.linkedin.com/in/kapil-srivastava-730a4916a/
+📧 **Email** – kapilsrivastava2312@gmail.com  
+
+---
+
+💡 *"Data is the new oil, but refining it into insights is the key!"* 🔍  
+🚀 **Let’s connect and collaborate on exciting data projects!**  
